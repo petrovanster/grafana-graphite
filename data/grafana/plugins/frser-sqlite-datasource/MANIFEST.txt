@@ -1,0 +1,41 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "community",
+  "signedByOrg": "frser",
+  "signedByOrgName": "frser",
+  "plugin": "frser-sqlite-datasource",
+  "version": "2.2.1",
+  "time": 1639510225514,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "CHANGELOG.md": "76c0f830b8a6bdf624ac65bb85c6c756c51b3588177668c7c866f8d86488424d",
+    "module.js.map": "904bde7b09677a04b80fe6bcd0c53d39613994501c59d3e15edf94560beb6b74",
+    "gpx_sqlite-datasource_linux_amd64": "81ce0b4a8fda04b839cf53545fdeb640ab73e0765393bebe6d6e171abdfdc235",
+    "gpx_sqlite-datasource_linux_arm64": "4fa5e69b5496284c68aa69d1a5eb26d82a98ad7fa0bf04ca11b4c8261bf58a90",
+    "gpx_sqlite-datasource_windows_amd64.exe": "9124185a1f8a0d54ec1f8cd7765192479affa514772b9ab248e5d149535c0e8e",
+    "module.js": "34d50c2bb5bf65fd25a3c89fe9a2d67461f91a413ee5146e8afd0ba268dfbf1d",
+    "img/sine-wave-example-dashboard.png": "ccde2cf5e0cd648cdca99bcf8e295cefecbcf6e477645d09fceda3ee17af7737",
+    "img/sine-wave-timeseries-panel-edit.png": "e70be65e8257912c150e052303aaa17808fca1127d392821713fd30a7cac1ea5",
+    "img/logo.svg": "0c351f39397f811a8ffe664474f1435f342b3be3657bd1ea6353e443acbecf6e",
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "gpx_sqlite-datasource_linux_arm": "a4d7af2ea0ed8eb5637cd0677e26ea3975012efa763110a0592ee1ab76611f8d",
+    "plugin.json": "2957589dba02d6fc8493fdcfc8596d72ee9b52e4a9e5e4922e8ac00d19ffdc47",
+    "module.js.LICENSE.txt": "0d8f66cd4afb566cb5b7e1540c68f43b939d3eba12ace290f18abc4f4cb53ed0",
+    "gpx_sqlite-datasource_darwin_amd64": "7862139b719fd0456e012fac26c6d17a8bfcecd683a56074ef76d2f5f0ebab4f",
+    "README.md": "2270fb38848d1006fcea44c1ad1b0bb912eeb66482545a90ca891fdcee773ae4"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.1
+Comment: https://openpgpjs.org
+
+wqAEARMKAAYFAmG48NEACgkQfk0ManCIZufJ7wIHT/3XfoUN39w5nrx+ASGy
+PzbNDvX0jzpwaWgtzKA3C6YN5q2rvB+EvKrqcvemB8gbTxbNca51ksNw52Mq
+qzsSY7ICB3pGO7Cj2E3RJNyFl5/0qeWEjJq3f3/DUM7Jafv7YhENvEsoMAf2
+pODizorAA7KnawSoAobhlMmtn7bSsykNeuqF
+=ebiZ
+-----END PGP SIGNATURE-----
